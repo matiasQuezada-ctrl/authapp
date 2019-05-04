@@ -22,7 +22,6 @@ export class ProtegidaComponent implements OnInit {
         console.log(this.profile);
       });
     }
-
   }
 
 }
